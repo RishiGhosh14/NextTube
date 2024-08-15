@@ -42,7 +42,7 @@ Manage your data effortlessly with the streamlined and intuitive database operat
 
 Get a glimpse of NextTube in action by clicking on the thumbnail below to watch the demo video:
 
-[![Watch the video]()](https://github.com/gincode18/NextTube/assets/91776192/a5acf7d2-94b8-4a4d-ac37-9ef690aff6dd)
+
 
 ## 🚀 Get Started with NextTube
 
