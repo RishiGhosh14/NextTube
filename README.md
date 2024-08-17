@@ -48,7 +48,7 @@ Get a glimpse of NextTube in action by clicking on the thumbnail below to watch 
 
 To get started with NextTube, visit our GitHub repository and clone the project:
 
-🔗 [GitHub Repository](https://github.com/gincode18/NextTube)
+🔗 [GitHub Repository](https://github.com/RishiGhosh14/NextTube)
 
 For a live demonstration of NextTube, check out our live deployment:
 
